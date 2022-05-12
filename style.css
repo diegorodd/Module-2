@@ -57,6 +57,7 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+    flex-shrink: 3;
 }
 .content {
     width: 85%;
@@ -69,7 +70,4 @@ p {
     color: black;
     min-height: 75px;
     margin-bottom: 100px;
-}
-.work{
-    box-sizing: content-box;
 }
