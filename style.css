@@ -44,4 +44,16 @@ p {
     background-image: url("../Module-2/assets/pathway.jpg");
     background-size: cover;
     background-position: center;
+    
 }
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.float-left {
+    float: left;
+    margin-right: 25px;
+    font-size: 50px;
+    color: darkgrey;
+} 
