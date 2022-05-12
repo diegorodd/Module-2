@@ -4,7 +4,7 @@
     margin: 0;
 }
 body {
-    background-color: white;
+    background-color:white;
 }
 header {
     padding: 20px;
@@ -57,11 +57,10 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-    flex-shrink: 3;
 }
 .content {
     width: 85%;
-    display: inline-flex
+    display: inline;
     margin-left:block;
 }
 .About-me {
@@ -71,13 +70,30 @@ p {
     min-height: 75px;
     margin-bottom: 100px;
 }
+.image1{
+    width: 40%;
+    border:2px red solid;
+}
+
 .image2{
-    width: 50%;
+    width: 40%;
     border:2px black solid;
+    border-style: ridge;
+    display: block;
 }
 .image2:hover{
-background-color: blue;
+background-color:lightcyan;
+
 }
 .image3{
-    width: 50%;
+    width: 40%;
+    border:2px blue solid;
+    border-style: groove;
+}
+.image3.image2:hover{
+    background-color: grey;
+}
+.flex-container{
+     display: flex;
+     flex-wrap: wrap;
 }
