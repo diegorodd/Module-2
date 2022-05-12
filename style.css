@@ -38,10 +38,10 @@ p {
     font-size: 16px;
 }
 .wire {
-    height: 800px;
+    height: 200px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("first-picture.jpg");
+    background-image: url("../Module-2/assets/pathway.jpg");
     background-size: cover;
     background-position: center;
 }
