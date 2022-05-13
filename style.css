@@ -69,6 +69,7 @@ p {
     color: black;
     min-height: 75px;
     margin-bottom: 100px;
+    
 }
 
 .image1{
@@ -85,14 +86,16 @@ p {
 .image2:hover{
 background-color:lightcyan;
 
+
 }
 .image3{
     width: 40%;
     border:2px blue solid;
     border-style: groove;
 }
-.image3.image2:hover{
+.image3:hover{
     background-color: grey;
+    box-shadow: #2a607c;
 }
 .flex-container{
      display: flex;
@@ -106,7 +109,27 @@ background-color:lightcyan;
     min-height: 100px;
     margin-bottom: 100px;
 }
-.footer{
-    display: flex;
-    justify-content: space-between;
+header nav, .footer nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
+header nav ul, .footer nav ul {
+    list-style-type: none;
+    
+}
+header nav ul li, .footer nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    text-decoration: underline;
+}
+header, .footer {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: grey;
+    display: flex;
+    justify-content: space-between; 
+    
+    }
