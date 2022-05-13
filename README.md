@@ -1,6 +1,6 @@
 # Portfolio
   [github](https://github.com/diegorodd/Module-2)
-  ![Include a screenshot] ( )
+  ![screenshot] (https://github.com/diegorodd/Module-2/blob/main/assets/module2assignment%20.png)
   ## Table of Contents
 * [Introduction](#introduction)
 * [Installation](#installation)
