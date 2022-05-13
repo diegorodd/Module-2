@@ -59,17 +59,20 @@ p {
     margin-left: 25px;
 }
 .content {
-    width: 85%;
+    width: 100%;
     display: inline;
     margin-left:block;
 }
 .About-me {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2a607c;
+    background-color:slategrey;
     color: black;
     min-height: 75px;
     margin-bottom: 100px;
     
+}
+.work{
+    background-color: darkcyan;
 }
 
 .image1{
@@ -105,7 +108,7 @@ background-color:lightcyan;
     background-color: #2a607c;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
-    color: gray;
+    color: white;
     min-height: 100px;
     margin-bottom: 100px;
 }
@@ -121,14 +124,14 @@ header nav ul, .footer nav ul {
 }
 header nav ul li, .footer nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 10px;
     text-decoration: underline;
 }
 header, .footer {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: grey;
+    color: white;
     display: flex;
     justify-content: space-between; 
     
