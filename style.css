@@ -105,5 +105,8 @@ background-color:lightcyan;
     color: gray;
     min-height: 100px;
     margin-bottom: 100px;
-    
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
 }
