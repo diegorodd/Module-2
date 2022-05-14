@@ -99,9 +99,10 @@ box-shadow: 5px 5px 10px black;
     border:2px blue solid;
     border-style: groove;
 }
-.image3:hover img{
+.float-right .image3:hover{
     background-color: grey;
     box-shadow: #2a607c;
+    border: 10px solid black;
 }
 .flex-container{
      display: flex;
@@ -143,4 +144,11 @@ header, .footer {
        box-shadow: 5px 5px 10px black;
        text-shadow: 5px 10px 15px black;
    }
-   
+   .please-work img{
+       background-color: pink;
+       
+   }
+   .please-work img:hover{
+       background-color: blue;
+       opacity: 0.2;
+   }
