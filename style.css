@@ -14,6 +14,7 @@ header {
     display: flex;
     justify-content: space-between;
 }
+/* this is the header and how i am displaying it */
 header h1 {
     
     font-size: 48px;
@@ -47,6 +48,7 @@ p {
     background-position: center;
     
 }
+/* centering the image after the header */
 
 .float-left {
     float: left;
@@ -70,6 +72,7 @@ p {
     min-height: 75px;
     margin-bottom: 100px;
 }
+/* After the first image */
 .work{
     background-color: darkcyan;
 }
@@ -87,6 +90,7 @@ p {
 }
 .image2:hover{
 background-color:lightcyan;
+box-shadow: 5px 5px 10px black;
 
 
 }
@@ -111,6 +115,7 @@ background-color:lightcyan;
     min-height: 100px;
     margin-bottom: 100px;
 }
+/* this is the footer contact info */
 header nav, .footer nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -133,6 +138,9 @@ header, .footer {
     color: white;
     display: flex;
     justify-content: space-between; 
+   }
+   div img {
+       box-shadow: 5px 5px 10px black;
+       text-shadow: 5px 10px 15px black;
+   }
    
-    
-    }

@@ -3,7 +3,7 @@
 [deployed link](https://diegorodd.github.io/Module-2/)
  ![screenshot](https://github.com/diegorodd/Module-2/blob/main/assets/module2assignment%20.png)
   ## Table of Contents
-* [Introduction]()
+* [Introduction](#introduction)
 # Acceptance Criteria 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
