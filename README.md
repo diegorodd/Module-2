@@ -27,7 +27,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * [Questions](#questions)
   ## Introduction 
   ## Installation 
-  ![Directions to start]()
   
   ## Usage 
   (html, css)
