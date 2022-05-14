@@ -99,7 +99,7 @@ box-shadow: 5px 5px 10px black;
     border:2px blue solid;
     border-style: groove;
 }
-.image3:hover{
+.image3:hover img{
     background-color: grey;
     box-shadow: #2a607c;
 }
