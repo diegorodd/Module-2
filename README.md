@@ -25,17 +25,17 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-  ## Introduction
-
-  ## Installation
+  ## Introduction 
+  ## Installation 
   ![Directions to start]()
   
-  ## Usage
+  ## Usage 
+  (html, css)
   
   ## License
   ## Contributions
   
   ## Tests
-  
+   (chrome)
   ## Questions
   For questions email me at :
