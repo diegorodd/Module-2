@@ -1,8 +1,7 @@
 # Portfolio
-  
 [github](https://github.com/diegorodd/Module-2)
 [deployed link](https://diegorodd.github.io/Module-2/)
-  ![screenshot](https://github.com/diegorodd/Module-2/blob/main/assets/module2assignment%20.png)
+ ![screenshot](https://github.com/diegorodd/Module-2/blob/main/assets/module2assignment%20.png)
   ## Table of Contents
 * [Introduction](#introduction)
 * [Installation](#installation)
