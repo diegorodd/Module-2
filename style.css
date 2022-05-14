@@ -69,7 +69,6 @@ p {
     color: black;
     min-height: 75px;
     margin-bottom: 100px;
-    
 }
 .work{
     background-color: darkcyan;
@@ -134,5 +133,6 @@ header, .footer {
     color: white;
     display: flex;
     justify-content: space-between; 
+   
     
     }
