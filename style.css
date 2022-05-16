@@ -7,7 +7,7 @@ body {
     background-color:white;
 }
 header {
-    position: -webkit-sticky;
+    top: 0px;
     position: sticky;
     z-index: 99999;
     padding: 20px;
